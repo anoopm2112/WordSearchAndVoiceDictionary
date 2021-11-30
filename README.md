@@ -1,0 +1,2 @@
+# WordSearchAndVoiceDictionary
+Dictionary application
