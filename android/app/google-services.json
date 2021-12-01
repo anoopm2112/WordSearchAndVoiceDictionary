@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1072124528258",
+    "project_id": "voicedict-ee951",
+    "storage_bucket": "voicedict-ee951.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072124528258:android:fb68e68bbb84306f58d69b",
+        "android_client_info": {
+          "package_name": "com.voiceDict"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072124528258-dkaevtk5oiaacs4hhh7cnlqnfs03pa0j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.voiceDict",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1072124528258-eb8n2gp82f4iok4npam4coabd01u25ns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGkHn5zCbGumcuX1pHZ5KZmEkE6VITiHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072124528258-eb8n2gp82f4iok4npam4coabd01u25ns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
